@@ -4,7 +4,7 @@
 This project is a timer based on the ATtiny 2313 microcontroller. It is designed to control an AC load (230V) by switching it on for a set amount of time, then automatically turning it off once the time expires. This can be used in various applications, such as controlling lights or appliances that need to be activated for a specific duration. The microcontroller's low power consumption and compact size make it ideal for such timing applications.
 
 
-## Зображення
+## PCB and 3D-Design
 
 <p align="center">
     <table width="100%">
