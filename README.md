@@ -5,7 +5,7 @@
 
 ## Зображення
 <p align="center">
-    <b>3D-модель плати</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>Фотографія готової плати</b>
+    <span style="display:block; text-align:center;"><b>3D-модель плати</b></span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="display:block; text-align:center;"><b>Фотографія готової плати</b></span>
 </p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/50719c39-d52b-4cf7-b067-b02122c8c213" width="45%">
