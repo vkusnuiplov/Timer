@@ -9,10 +9,10 @@
     <table width="100%">
         <tr>
             <td style="border: 1px solid black; padding: 10px; text-align:center; width: 50%; box-sizing: border-box;">
-                <b>3D-модель плати</b>
+                <div style="text-align: center;"><b>3D-модель плати</b></div>
             </td>
             <td style="border: 1px solid black; padding: 10px; text-align:center; width: 50%; box-sizing: border-box;">
-                <b>Фотографія готової плати</b>
+                <div style="text-align: center;"><b>Фотографія готової плати</b></div>
             </td>
         </tr>
         <tr>
