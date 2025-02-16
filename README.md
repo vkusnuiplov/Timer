@@ -4,12 +4,26 @@
 Цей проєкт є прикладом роботи з [тут коротко, що саме робить твій проєкт]. Він містить схему, друковану плату та всі необхідні файли для складання.
 
 ## Зображення
+
 <p align="center">
-    <span style="display:block; text-align:center;"><b>3D-модель плати</b></span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="display:block; text-align:center;"><b>Фотографія готової плати</b></span>
-</p>
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/50719c39-d52b-4cf7-b067-b02122c8c213" width="45%">
-    <img src="https://github.com/user-attachments/assets/22568f50-113d-48f9-a8e6-9f16bac42b74" width="45%">
+    <table>
+        <tr>
+            <td style="border: 1px solid black; padding: 10px; text-align:center;">
+                <b>3D-модель плати</b>
+            </td>
+            <td style="border: 1px solid black; padding: 10px; text-align:center;">
+                <b>Фотографія готової плати</b>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; padding: 10px; text-align:center;">
+                <img src="https://github.com/user-attachments/assets/50719c39-d52b-4cf7-b067-b02122c8c213" width="300">
+            </td>
+            <td style="border: 1px solid black; padding: 10px; text-align:center;">
+                <img src="https://github.com/user-attachments/assets/22568f50-113d-48f9-a8e6-9f16bac42b74" width="300">
+            </td>
+        </tr>
+    </table>
 </p>
 
 ---
